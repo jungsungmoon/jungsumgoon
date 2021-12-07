@@ -2,7 +2,7 @@
 
 ## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
-> - Pykyong National University, Department of Industry & Data Engineering, Master course
+> - Pukyong National University, Department of Industry & Data Engineering, Master course
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
