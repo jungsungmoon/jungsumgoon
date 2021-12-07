@@ -1,6 +1,6 @@
 # jungsumgoon
 
-## Studied
+## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
 > - Pykyong National University, Department of Industry & Data Engineering
 
