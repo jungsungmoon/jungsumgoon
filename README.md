@@ -11,7 +11,7 @@
 >   - [Github](https://github.com/jungsungmoon/nongsan) 
 > - [Compas predicting to demand of parkingslot](https://compas.lh.or.kr/subj/competition/info?subjNo=SBJ_2107_003#)
 > 
->   -🏆 LH 사장상 수상
+>   - 🏆 LH 사장상 수상
 >   - [Github](https://github.com/jungsungmoon/parkingslot)
 > - [Dacon Joiss Marine Science Big Data Competition](https://dacon.io/competitions/official/235793/overview/description)
 > 
