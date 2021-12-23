@@ -7,7 +7,7 @@
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
 > 
->   -🏆 우수상 수상
+>   - 🏆 우수상 수상
 >   - [Github](https://github.com/jungsungmoon/nongsan) 
 > - [Compas predicting to demand of parkingslot](https://compas.lh.or.kr/subj/competition/info?subjNo=SBJ_2107_003#)
 > 
