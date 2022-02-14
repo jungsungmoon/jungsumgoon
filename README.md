@@ -1,4 +1,3 @@
-# jungsumgoon
 ![image](https://github.com/jungsungmoon/jungsungmoon/blob/main/KakaoTalk_20220214_152219272.jpg)
 
 ## Studied in
