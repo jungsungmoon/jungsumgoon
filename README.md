@@ -16,4 +16,8 @@
 >   - [Github](https://github.com/jungsungmoon/joiss) 🏆 대한원격탐사학회장상 수상 
 
 ## Project
-> - 
+> - [Eco Jeju](https://github.com/jungsungmoon/ecojeju)
+> - [LG Plant Disease Detection](https://github.com/jungsungmoon/lg_farm)
+> - [KLUE Korean Natural Language Inference](https://github.com/jungsungmoon/KLUE)
+> - [Patent Document Classification](https://github.com/jungsungmoon/kobert_ipc_classification)
+> - [Predicting Stock Price using Covid-19 Data](https://github.com/jungsungmoon/stock_price)
