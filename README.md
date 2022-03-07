@@ -2,6 +2,7 @@
 
 ## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
+> 
 > - Pukyong National University, Department of Industry & Data Engineering, Master course
 
 ## Awards
