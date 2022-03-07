@@ -15,7 +15,7 @@
 > 
 >   - [Github](https://github.com/jungsungmoon/joiss) 🏆 대한원격탐사학회장상 수상 
 
-## Project
+## Projects
 > - [Eco Jeju](https://github.com/jungsungmoon/ecojeju)
 > 
 > - [LG Plant Disease Detection](https://github.com/jungsungmoon/lg_farm)
