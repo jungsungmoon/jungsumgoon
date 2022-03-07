@@ -1,4 +1,4 @@
-![image](https://github.com/jungsungmoon/jungsungmoon/blob/main/KakaoTalk_20220214_152219272.jpg)
+<p align="center"><img src="https://github.com/jungsungmoon/jungsungmoon/blob/main/KakaoTalk_20220214_152219272.jpg" height="400" /></p>
 
 ## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
