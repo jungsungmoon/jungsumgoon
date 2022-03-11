@@ -4,6 +4,8 @@
 
 ## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
+>
+> - SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 > 
 > - Pukyong National University, Department of Industry & Data Engineering, Master course
 
