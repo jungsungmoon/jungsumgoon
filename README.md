@@ -7,7 +7,7 @@
 >
 > - SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 > 
-> - Pukyong National University, Department of Industry & Data Engineering, Master course
+> - Pukyong National University Graduate school, Department of Industry & Data Engineering, Master course
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
