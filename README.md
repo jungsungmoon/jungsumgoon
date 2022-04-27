@@ -31,4 +31,4 @@
 > 
 > - [Predicting Stock Price using Covid-19 Data](https://github.com/jungsungmoon/stock_price)
 > 
-> - [Classification KSSC](https://github.com/jungsungmoon/SANUP)
+> - [Classification KSIC](https://github.com/jungsungmoon/SANUP)
