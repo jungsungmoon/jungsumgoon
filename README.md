@@ -30,3 +30,5 @@
 > - [Patent Document Classification](https://github.com/jungsungmoon/kobert_ipc_classification)
 > 
 > - [Predicting Stock Price using Covid-19 Data](https://github.com/jungsungmoon/stock_price)
+> 
+> - [Classification KSSC](https://github.com/jungsungmoon/SANUP)
