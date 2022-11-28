@@ -30,3 +30,20 @@
 > - [Predicting Stock Price using Covid-19 Data](https://github.com/jungsungmoon/stock_price)
 > 
 > - [Classification KSIC](https://github.com/jungsungmoon/SANUP)
+
+## Works
+> - [제주테크노파크](https://dacon.io/competitions/official/235985/overview/description)
+> 
+> - [제주산학융합원](https://dacon.io/competitions/official/236012/overview/description)
+> 
+> - [수원대학교](https://dacon.io/competitions/open/235934/overview/description)
+> 
+> - [연암공대](https://dacon.io/competitions/official/236001/overview/description)
+> 
+> - [기업은행](https://dacon.io/competitions/official/235994/overview/description)
+> 
+> - [광운대학교](https://dacon.io/competitions/official/235988/overview/description)
+> 
+> - [서울디지털재단](https://dacon.io/competitions/official/235966/overview/description)
+> 
+> - [충남대학교](https://dacon.io/competitions/official/236010/overview/description)
