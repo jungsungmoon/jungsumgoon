@@ -32,9 +32,8 @@
 > - [Classification KSIC](https://github.com/jungsungmoon/SANUP)
 
 ## Works
-> - [[제주테크노파크]](https://dacon.io/competitions/official/235985/overview/description)
+> - [[제주테크노파크]](https://dacon.io/competitions/official/235985/overview/description) 인공지능 교육 및 경진대회
 >
->   - 인공지능 교육 및 경진대회
 > - [제주산학융합원](https://dacon.io/competitions/official/236012/overview/description)
 >
 >   - 인공지능 경진대회
