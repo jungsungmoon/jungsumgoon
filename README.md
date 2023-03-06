@@ -8,7 +8,7 @@
 > - Pukyong National University Graduate school, Department of Industry & Data Engineering, Master course
 
 
-## Career
+## Careers
 > - Pukyong National University, AI LAB
 >
 > - Dacon, AI part leader
