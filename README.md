@@ -6,6 +6,8 @@
 > - SDSA, The Southampton Data Science Academy, Fundamentals of Data Science Course Achievement
 > 
 > - Pukyong National University Graduate school, Department of Industry & Data Engineering, Master course
+> 
+> - Pusan National University Graduate school, Department of Industry & Data Engineering, Master course
 
 
 ## Careers
