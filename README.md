@@ -11,9 +11,9 @@
 ## Careers
 > - Pukyong National University, AI LAB, Researcher
 >
-> - Dacon, AI Part Leader
+> - [Dacon, AI Part Leader](https://dacon.io/myprofile/429567/home)
 > 
-> - Elice, AI Developer
+> - [Elice, AI Developer](https://elice.io/)
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
