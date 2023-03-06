@@ -7,6 +7,14 @@
 > 
 > - Pukyong National University Graduate school, Department of Industry & Data Engineering, Master course
 
+
+## Career
+> - Pukyong National University, AI LAB
+>
+> - Dacon, AI part leader
+> 
+> - Elice, AI developer
+
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
 > 
