@@ -11,9 +11,9 @@
 ## Careers
 > - Pukyong National University, AI LAB
 >
-> - Dacon, AI part leader
+> - Dacon, AI Part Leader
 > 
-> - Elice, AI developer
+> - Elice, AI Developer
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
