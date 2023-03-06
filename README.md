@@ -9,7 +9,7 @@
 
 
 ## Careers
-> - Pukyong National University, AI LAB
+> - Pukyong National University, AI LAB, Researcher
 >
 > - Dacon, AI Part Leader
 > 
