@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/jungsungmoon/jungsungmoon/blob/main/KakaoTalk_20220214_152219272.jpg" height="350" /></p>
 
-## Hi
+## Hi 👋
 [Notion](https://moonsworkspace.notion.site/moonsworkspace/Moon-s-Workspace-9506b0b6ca234f94b95153edafdc86c9)
 
 ## Studied in
