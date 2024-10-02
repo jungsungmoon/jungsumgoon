@@ -16,7 +16,7 @@
 >
 > - [Dacon, AI Part Leader](https://dacon.io/myprofile/429567/home)
 > 
-> - [Elice, AI Developer](https://elice.io/)
+> - [Elice, Contents Team Leader](https://elice.io/)
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
