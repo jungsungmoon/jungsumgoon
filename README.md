@@ -58,3 +58,21 @@
 > - [[서울디지털재단]](https://dacon.io/competitions/official/235966/overview/description) 인공지능 교육 및 내부 해커톤
 >
 > - [[충남대학교]](https://dacon.io/competitions/official/236010/overview/description) 인공지능 교육 및 내부 해커톤
+>
+> - [[프롬프트 엔지니어링 교육과정]](https://academy.elice.io/tracks/4323/promotion) 교육과정 제작
+>
+> - [[미드저니 교육과정]](https://academy.elice.io/courses/75500/info) 교육과정 제작
+>
+> - [[LangChain 교육과정]](https://academy.elice.io/courses/75511/info) 교육과정 제작
+>
+> - [[ChatGPT 교육과정]](https://academy.elice.io/tracks/3924/promotion) 교육과정 제작
+>
+> - [[머신러닝 교육과정]](https://academy.elice.io/courses/18923/info) 교육과정 제작
+>
+> - [[알고리즘 코딩테스트]](https://academy.elice.io/courses/78960/info) 테스트 제작
+>
+> - [[AI Edu 해커톤]](https://elice.io/ko/newsroom/ai1-500-ai_hackathon) 해커톤 기획 및 제작
+>
+> - [[LG Aimers 경진대회]](https://www.lgaimers.ai/) 해커톤 기획 및 제작
+>
+> - [[국방 AI 경진대회]](https://maicon.kr/) 해커톤 기획 및 제작
